@@ -104,7 +104,7 @@ This project is licensed under the **[MIT License]** - see the [LICENSE](LICENSE
   <a href="https://www.linkedin.com/in/divyansh-kumar-singh-028747321/"><img src="https://img.shields.io/badge/-Divyansh_Kumar_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/JavaPyWizard/"><img src="https://img.shields.io/badge/-JavaPyWizard-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:divyanshkumarsingh29@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JavPyWizard"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/JavaPyWizard"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 [![GitHub Stars](https://img.shields.io/github/stars/JavPyWizard/finance-tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavPyWizard/finance-tracker/stargazers)
