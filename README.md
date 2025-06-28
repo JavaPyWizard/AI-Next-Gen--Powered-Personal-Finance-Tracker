@@ -107,7 +107,10 @@ This project is licensed under the **[MIT License]** - see the [LICENSE](LICENSE
   <a href="https://github.com/JavaPyWizard"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
-[![GitHub Stars](https://img.shields.io/github/stars/JavPyWizard/finance-tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavPyWizard/finance-tracker/stargazers)
+<div align="center">
+  
+[![GitHub Stars](https://img.shields.io/github/stars/JavaPyWizard/finance-tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavaPyWizard/finance-tracker/stargazers)
 [![Twitter Share](https://img.shields.io/badge/Tweet-about_it-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20finance%20tracker!)
 
 </div>
+
