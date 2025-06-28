@@ -102,7 +102,9 @@ pie
 If you like this project, star ⭐ the repo and follow me for more cool projects!
 
 <p align="center"> <img src="https://img.shields.io/github/stars/JavaPyWizard/AI-Next-Gen--Powered-Personal-Finance-Tracker?style=social" /> <img src="https://img.shields.io/github/followers/JavaPyWizard?style=social" /> </p>
-<p align="center"> <b>“Creativity takes courage. Passion makes it unstoppable.”</b> </p> ```
+<br>
+
+<p align="center"> <b>“Creativity takes courage. Passion makes it unstoppable.”</b> </p> 
 
 ## 🚀 One-Click Setup
 
