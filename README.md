@@ -117,7 +117,7 @@ This project is licensed under the **[MIT License]** - see the [LICENSE](LICENSE
 
 <div align="center">
   
-[![GitHub Stars](https://img.shields.io/github/stars/JavaPyWizard/AI-Next-Gen--Powered-Personal-Finance-Tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavaPyWizard/finance-tracker)
+[![GitHub Stars](https://img.shields.io/github/stars/JavaPyWizard/AI-Next-Gen-Powered-Personal-Finance-Tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavaPyWizard/AI-Next-Gen-Powered-Personal-Finance-Tracker)
 [![Twitter Share](https://img.shields.io/badge/Tweet-about_it-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20finance%20tracker!)
 
 </div>
