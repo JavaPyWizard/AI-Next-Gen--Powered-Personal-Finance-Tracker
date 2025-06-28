@@ -98,9 +98,17 @@ pie
 
 ---
 
+🌟 Show Some ❤️
+If you like this project, star ⭐ the repo and follow me for more cool projects!
+
+<p align="center"> <img src="https://img.shields.io/github/stars/JavaPyWizard/AI-Next-Gen--Powered-Personal-Finance-Tracker?style=social" /> <img src="https://img.shields.io/github/followers/JavaPyWizard?style=social" /> </p>
+<p align="center"> <b>“Creativity takes courage. Passion makes it unstoppable.”</b> </p> ```
+
 ## 🚀 One-Click Setup
 
 <div align="center">
+
+---
 
 [![Deploy](https://img.shields.io/badge/Deploy_on-Visual_Studio_Code-blue?logo=visual-studio-code)](vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/JavPyWizard/finance-tracker)
 [![Run on Replit](https://img.shields.io/badge/Run_on-Replit-667881?logo=replit)](https://replit.com/github/JavPyWizard/finance-tracker)
