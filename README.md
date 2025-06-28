@@ -78,6 +78,26 @@ pie
     "Security (PBKDF2)" : 15
 ```
 
+| Language                                                                                                 | GUI Library | Modules Used                          |
+| -------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) | Tkinter     | `datetime`, `os`, `pickle`, `tkinter` , `pandas` , `numpy` , `matplotlib` |
+
+---
+
+## 🧠 Folder Structure
+
+```bash
+📁 AI-Finance-Tracker/
+├── main.py             # Entry point of the app
+├── gui.py              # GUI implementation using Tkinter
+├── finance_tracker.py  # Core finance logic
+├── user_manager.py     # User account management
+├── LICENSE             # Project open-source license
+└── README.md           # This file ✨
+```
+
+---
+
 ## 🚀 One-Click Setup
 
 <div align="center">
@@ -114,4 +134,3 @@ This project is licensed under the **[MIT License]** - see the [LICENSE](LICENSE
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
