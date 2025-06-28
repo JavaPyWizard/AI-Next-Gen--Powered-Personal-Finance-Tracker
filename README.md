@@ -101,16 +101,23 @@ This project is licensed under the **[MIT License]** - see the [LICENSE](LICENSE
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-kumar-singh-028747321/"><img src="https://img.shields.io/badge/-Divyansh_Kumar_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/JavaPyWizard/"><img src="https://img.shields.io/badge/-JavaPyWizard-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:divyanshkumarsingh29@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JavaPyWizard"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/divyansh-kumar-singh-028747321/">
+    <img src="https://img.shields.io/badge/-Divyansh_Kumar_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/JavaPyWizard/">
+    <img src="https://img.shields.io/badge/-JavaPyWizard-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:divyanshkumarsingh29@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JavaPyWizard">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <div align="center">
   
-[![GitHub Stars](https://img.shields.io/github/stars/JavaPyWizard/finance-tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavaPyWizard/finance-tracker/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/JavaPyWizard/finance-tracker?style=for-the-badge&logo=github&color=gold)](https://github.com/JavaPyWizard/finance-tracker)
 [![Twitter Share](https://img.shields.io/badge/Tweet-about_it-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20finance%20tracker!)
 
 </div>
-
